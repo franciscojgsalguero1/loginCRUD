@@ -1,4 +1,16 @@
 <?php
+
+/*
+    *
+    * @author Francisco José Gordo Salguero
+    * Fecha Inicio: 15/12/2020
+    * Fecha Fin: 15/12/2020
+    * Curso: 2do FPS DAW Presencial
+    * Modulo: Programación PHP
+    * Practica Login + CRUD
+    * @versión: 1.0
+*/
+
 // core configuration
 include_once "config/core.php";
 
